@@ -1,0 +1,8 @@
+# NAME: drules
+# AUTHOR: 
+# REPO: https://github.com/michaelf6/Scripts
+# UPDATED: 2026-02-13
+# HOST-SUFFIX: 2
+# TOTAL: 2
+HOST-SUFFIX,dapenti.com,direct
+HOST-KEYWORD,fuliba,direct
