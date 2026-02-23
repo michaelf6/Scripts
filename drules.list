@@ -7,3 +7,9 @@
 # TOTAL: 5
 HOST-SUFFIX,dapenti.com,direct
 HOST-KEYWORD,fuliba,direct
+
+## McDonalds
+;host-suffix, mcdonalds.com.cn, direct
+
+## StarBucks
+;host-suffix, starbucks.com.cn, direct
