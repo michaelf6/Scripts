@@ -13,3 +13,6 @@ HOST-KEYWORD,fuliba,direct
 
 ## StarBucks
 ;host-suffix, starbucks.com.cn, direct
+
+## IKEA
+HOST-SUFFIX,ikea.cn,direct
